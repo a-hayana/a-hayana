@@ -1,7 +1,5 @@
 <br> 
 
-<img align="center" alt="" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44451990/149609765-4c791a92-4e5d-4bfa-a5af-d1eeea00c427.png">
-
 ## `Ariane Hayana` | 📚 **Graduanda em Estatística**
       
   <a href="https://www.linkedin.com/in/arianehayana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
