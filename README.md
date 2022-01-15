@@ -1,16 +1,20 @@
-### Hi there 👋
+<br> 
 
-<!--
-**a-hayana/a-hayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" alt="" height="100" style="border-radius:50px;" src="https://user-images.githubusercontent.com/44451990/149609765-4c791a92-4e5d-4bfa-a5af-d1eeea00c427.png">
 
-Here are some ideas to get you started:
+## `Ariane Hayana` | 📚 **Graduanda em Estatística**
+      
+  <a href="https://www.linkedin.com/in/arianehayana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://ariane-hayana.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <a href="mailto:ariane.hayana@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    
+ ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/a-hayana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-hayana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-hayana&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+##
+  
