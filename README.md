@@ -29,9 +29,6 @@
   <img align="right" src="https://profile-counter.glitch.me/a-hayana/count.svg">
   <img align="right" alt="" width="80" height="80" src="http://octodex.github.com/images/Professortocat_v2.png"> 
     
-<h3 align="left"> 📊 Métricas do Github: </h3>
-  
-![GitHub metrics](https://metrics.lecoq.io/a-hayana)  
   
  </div> 
 
