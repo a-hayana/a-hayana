@@ -1,4 +1,8 @@
-## <img align="left" alt="" width="140" height="140" src="https://user-images.githubusercontent.com/44451990/149630370-3cccbfe1-c4a2-44c5-bd0c-53114c9bd768.png">  `Ariane Hayana` <br> 📚  **Studying for a Bachelor’s degree in Statistics** 
+<p align="center">
+  <img src="https://github.com/a-hayana/a-hayana/raw/main/view/view.gif">
+</p>
+
+## `Ariane Hayana` <br> 📚  **Studying for a Bachelor’s degree in Statistics** 
 
   <a href="https://www.linkedin.com/in/arianehayana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="http://ariane-hayana.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
