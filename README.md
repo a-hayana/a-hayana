@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/a-hayana/a-hayana/raw/main/view/view.gif">
+  <img src="https://github.com/a-hayana/a-hayana/raw/main/view/view2.gif">
 </p>
 
 ## `Ariane Hayana` <br> 📚  **Studying for a Bachelor’s degree in Statistics** 
