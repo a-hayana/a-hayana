@@ -18,9 +18,12 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/arianehayana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:ariane.hayana@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-
+  
 <h3 align="left">📝 Portfólio Website: </h3>
  <a href="http://ariane-hayana.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+ 
+<h3 align="left">🚀 Kaggle: </h3>
+ <a href="https://www.kaggle.com/arianehayana" target="_blank"><img width="70" height="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg">
         
 ##
  
