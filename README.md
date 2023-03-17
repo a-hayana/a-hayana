@@ -2,7 +2,7 @@
   <img src="https://github.com/a-hayana/a-hayana/raw/main/view/view2.gif">
 </p>
 
-## `Ariane Hayana` |   **Studying for a Bachelor’s degree in Statistics** 
+## `Ariane Hayana` |   **Degree in Statistics and Economics** 
 
 <details>
   <summary><b>🛠️ Algumas linguagens/ferramentas/pacotes que utilizo:</b></summary>
